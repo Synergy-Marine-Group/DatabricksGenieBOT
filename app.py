@@ -32,7 +32,7 @@ load_dotenv()
 
 DATABRICKS_SPACE_ID = "01f00ba28dc81e83b86aab1430c84b73" #From your Genie Space URL - https://adb-<yourhost>.azuredatabricks.net/genie/rooms/<THIS_ONE_IS_YOUR_GENIE_SPACE_ID>/chats/<not_this_one>
 DATABRICKS_HOST = "https://adb-4626041107022307.7.azuredatabricks.net" #From your Databricks URL
-DATABRICKS_TOKEN = "dapi7f3f876b29bee177679c382f697347c7" #From the Settings in your Databricks workspace
+DATABRICKS_TOKEN = "dapi11e9222c8d0998fb7abb2384db861700" #From the Settings in your Databricks workspace
 APP_ID = "35449c42-1fe1-453d-b956-ae5a8316b7d2" #From the Azure Bot you created
 APP_PASSWORD = "qBr8Q~3kTy68fJZem.lRCRmwO~xZwo89EAkO3bbr" #From the Manage Password link in the Azure Bot configuration
 
